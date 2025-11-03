@@ -1,2 +1,2 @@
-** Bash Introduction **
+**Bash Introduction**
 These are introduction scripts
